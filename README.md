@@ -11,4 +11,4 @@ npm i
 ```bash
 npx expo start --tunnel
 ```
-<img src="[HomeWork-Expo\expo-homework\assets\image.png](https://github.com/21Ner04/HomeWork-Expo/blob/main/expo-homework/assets/image.png)" />
+<img src="https://github.com/21Ner04/HomeWork-Expo/blob/main/expo-homework/assets/image.png" />
